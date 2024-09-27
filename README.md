@@ -20,6 +20,8 @@ generation of HR adversarial images, with an average confidence value of 50.73% 
 target categories.
 With the successful achievement of this project’s objectives, our team is currently summarizing the content of this thesis for publication in an international conference.
 
+[Read the full thesis here](https://thomasgillet.com/master_thesis.pdf).
+
 ## Code Overview  
 This repository contains the official code used to produce the results outlined in the thesis.
 
